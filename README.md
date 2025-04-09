@@ -12,7 +12,7 @@ net:
   bindIp: 0.0.0.0
 
 ```
-you must ensure your node version is latest or greater than **upgrade to Node.js v14 or later**
+**you must ensure your node version is latest or greater than **upgrade to Node.js v14 or later****
 Ensure you have the following installed on your system: 
 - **[Node.js](https://nodejs.org/)** (LTS version recommended)  
 - **npm** (Comes with Node.js)  
