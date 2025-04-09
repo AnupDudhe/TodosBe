@@ -64,3 +64,15 @@ MONGO_URI=mongodb://IPOfMongoDbServer:27017/todosdb
 ### final api deployment ref :-
 <img width="955" alt="image" src="https://github.com/user-attachments/assets/5898aa80-18f3-4a14-b0ef-8d5b95ecc565" />
 
+## Contributions
+
+- **Source Code Development**: The core functionality, application logic, and coding have been designed and implemented by Anup Dudhe.
+- **Infrastructure Setup**: Infrastructure components, such as server configurations, cloud services, and network setups, have been established and managed by Anup Dudhe.
+- **Deployment**: The deployment process, including CI/CD pipeline setup and environment configuration, was executed by Anup Dudhe to ensure seamless application deployment.
+
+## Developer Information
+
+- **Anup Dudhe**  
+  Software and Infrastructure Consultant  
+  CodeCloud Systems  
+  www.linkedin.com/in/anup-dudhe-3670331b1
