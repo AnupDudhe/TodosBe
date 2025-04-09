@@ -55,7 +55,7 @@ use todosdb
 db.todos.find()
 ```
 
-### note :- ensure you enlist mongodb://IPOfMongoDbServer:27017/todosdb in the .env file or if you want to create mongodb server seprately ensure you enlist the mongodbserver ip in .env file mentioned string if fe , be , db is in same server then do not change anything in the code.
+### note :- ensure you enlist mongodb://IPOfMongoDbServer:27017/todosdb in the .env file or if you want to create mongodb server seprately ensure you enlist the mongodbserver ip in .env file.
 ```
 // Connect to MongoDB
 MONGO_URI=mongodb://IPOfMongoDbServer:27017/todosdb
